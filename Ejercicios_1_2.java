@@ -11,7 +11,7 @@ public class Tarea_3 {
         }
     }
 }*/
-public class Tarea_3 {
+public class Ejercicios_1_2 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Introduce la temperatura");
